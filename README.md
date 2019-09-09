@@ -1,0 +1,1 @@
+A simple exercise tracker app to practice the MERN stack
